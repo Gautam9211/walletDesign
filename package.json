@@ -24,7 +24,8 @@
     "react-native-gesture-handler": "~2.14.0",
     "@react-navigation/bottom-tabs": "*",
     "react-native-element-dropdown": "*",
-    "react-native-safe-area-context": "4.8.2"
+    "react-native-safe-area-context": "4.8.2",
+    "react-native-raw-bottom-sheet": "*"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
